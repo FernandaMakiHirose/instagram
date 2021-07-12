@@ -1,5 +1,6 @@
 # Criando a tela inicial do Instagram
-Link do site: https://fernandamakihirose.github.io/instagram/
+- Nesse projeto o desafio foi reconstruir a página inicial de login do Instagram, onde foi abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
+- <a href="https://fernandamakihirose.github.io/instagram/">Clique aqui para abrir o projeto</a> 
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
